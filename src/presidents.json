@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "George Washington",
+        "image": "https://www.whitehouse.gov/wp-content/uploads/2017/12/01_george_washington1-600x452.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Thomas Jefferson",
+        "image": "https://www.whitehouse.gov/wp-content/uploads/2017/12/03_thomas_jefferson-600x452.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Andrew Jackson",
+        "image": "https://www.whitehouse.gov/wp-content/uploads/2017/12/07_andrew_jackson1-600x452.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Abraham Lincoln",
+        "image": "https://www.whitehouse.gov/wp-content/uploads/2017/12/16_abraham_lincoln-600x452.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Ulysses S. Grant",
+        "image": "https://www.whitehouse.gov/wp-content/uploads/2017/12/18_ulysses_s_grant-600x452.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Theodore Roosevelt",
+        "image": "https://www.whitehouse.gov/wp-content/uploads/2017/12/26_theodore_roosevelt-600x452.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Herbert Hoover",
+        "image": "https://www.whitehouse.gov/wp-content/uploads/2017/12/31_herbert_hoover-600x452.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Franklin D. Roosevelt",
+        "image": "https://www.whitehouse.gov/wp-content/uploads/2017/12/32_franklin_d_roosevelt-600x452.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Harry S. Truman",
+        "image": "https://www.whitehouse.gov/wp-content/uploads/2017/12/33_harry_s_truman-600x452.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Dwight D. Eisenhower",
+        "image": "https://www.whitehouse.gov/wp-content/uploads/2017/12/34_dwight_d_eisenhower1-600x452.jpg"
+    },
+    {
+        "id": 11,
+        "name": "John F. Kennedy",
+        "image": "https://www.whitehouse.gov/wp-content/uploads/2017/12/35_john_f_kennedy-600x452.jpg"
+    },
+    {
+        "id": 12,
+        "name": "James Carter",
+        "image": "https://www.whitehouse.gov/wp-content/uploads/2017/12/39_jimmy_carter-600x452.jpg"
+    }
+]

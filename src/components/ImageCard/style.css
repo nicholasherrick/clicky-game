@@ -1,0 +1,11 @@
+.card {
+    margin-left: 1rem !important;
+    margin-bottom: 3rem !important;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color: bisque;
+}
+
+img {
+    width:100%;
+}
