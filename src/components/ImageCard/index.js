@@ -3,11 +3,8 @@ import './style.css';
 
 function ImageCard(props) {
     return (
-        <div className="card col-3 mx-auto">
-            <div className="img-fluid image">
-                <img src={props.image} alt={props.name}/>
-                <span onClick={() => props.clicked()}></span>
-            </div>
+        <div onClick={() => props.clicked(props.id)} className="col-md-3 col-sm-6 col-xs-12 mx-auto img-fluid image">
+            <img src={props.image} alt={props.name} />
         </div>
     );
 }
