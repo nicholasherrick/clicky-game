@@ -1,68 +1,29 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Presidential Memory Game!
 
-## Available Scripts
+![Screenshot](./src/screenshot.jpg)
 
-In the project directory, you can run:
+## About
 
-### `npm start`
+This application uses facebook's ReactJs front end framework to create a dynamically updating memory game. The user will be shown a list of 12 presidents. Once the user clicks an image, the game begins. Each time the user clicks, the 12 images will shuffle randomly on the screen. To win the game, the user must click on all 12 different images without clicking the same president twice. When an image is clicked twice the score will be reset to zero, however, the game will always keep track of the highest score achieved. This app utilizes react's virtual dom functionality to only update components that are displaying new data, rather than refreshing everything, leading to boosts in performance.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Demo
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+[Click Here](https://clicky-game-278.netlify.com/) to view the application
 
-### `npm test`
+## Requirements
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+*[React](https://reactjs.org/)
 
-### `npm run build`
+## Build Tools
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* HTML
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+* CSS
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+* Javascript
 
-### `npm run eject`
+* ES6
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+* ReactJs
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+* Netlify
